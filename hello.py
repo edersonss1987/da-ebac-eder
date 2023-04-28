@@ -1,1 +1,1 @@
-print("Hello, I'am Eder")
+print("Hello, I'am Eder, let's learn how to use git ;)")
